@@ -107,8 +107,6 @@ npm run dev
 
 Back end server currently deployed on heroku at https://financial-investment-dashboard.herokuapp.com/
 
-- Deployed from github subdirectory server using https://github.com/timanovsky/subdir-heroku-buildpack.git
-
   - add above github url as first heroku buildpack
   - add heroku nodejs as section buildpack
 
